@@ -60,7 +60,7 @@ I enjoy building projects that combine **AI, data, automation, and creativity**.
 
 ---
 
-## 📈 GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayesha959&show_icons=true&theme=tokyonight" alt="Ayesha's GitHub Stats"/>
